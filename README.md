@@ -1,8 +1,6 @@
 <p align='center'
 >안녕하세요! 2년차 개발자 유주형입니다 🎉  <br />
-JavaScript를 사용하는 모든 개발을 좋아합니다. <br /><br />
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjujoycode%2Fhit-counter&count_bg=%237D9FD9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
-</p>
+JavaScript를 사용하는 모든 개발을 좋아합니다. <br />
 
 
 <h2 align='center'>
